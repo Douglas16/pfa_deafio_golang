@@ -20,7 +20,7 @@
 
 -   [Docker](https://www.docker.com/)
 -   [GOLANG](https://golang.org/)
--   [Dockerhub](docker push desiderios/golang:tagname)
+-   [Dockerhub](https://hub.docker.com/repository/docker/desiderios/golang)
 
 
 
